@@ -34,6 +34,7 @@ A student currently pursuing CS from FAST NUCES
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&" alt="maybethemuhammadibrahim" /></p>
 
 ## 🚀 Top Languages
 
