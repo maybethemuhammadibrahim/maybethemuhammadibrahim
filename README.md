@@ -30,7 +30,7 @@ A student currently pursuing CS from FAST NUCES
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maybethemuhammadibrahim)](https://git.io/streak-stats)
 
 ## 🚀 Top Languages
 
