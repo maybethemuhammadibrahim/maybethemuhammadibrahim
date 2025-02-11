@@ -29,7 +29,7 @@ A student currently pursuing CS from FAST NUCES
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=radical&card_width=497)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=highcontrast&card_width=497)
 
 ## 🔥 GitHub Streak
 
