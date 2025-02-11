@@ -1,20 +1,77 @@
-<h1 align="center">Hi, I'm Muhammad Ibrahim</h1>
-<h3 align="center">A CS undergrad from Pakistan</h3>
+# Hi, I'm Muhammad Obaid Ullah 👋
 
-- 🌱 I’m currently learning **C, C++ , and JS**
+## 👨‍🎓 About Me  
+I am Muhammad OBAID ULLAH, a student pursuing a Bachelor's degree in Computer Science from FAST University.  
+I am passionate about programming, game development, and web development.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/maybethemuhammadibrahim](https://github.com/maybethemuhammadibrahim)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Obaid03&color=ff0050&style=flat)-->  
+<!--![Profile Views](https://shields.io/badge/dynamic/json?color=ff0050&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Obaid03/visits)-->
 
-- 📫 Contact me through **mibrahimfiftysix@gmail.com**
+- 🎓 **Bachelor of Science (BS) in Computer Science**  
+- 💬 Ask me about anything related to **programming, web development, and tech**  
+- 📫 **How to reach me:** muhammadobaid103@gmail.com  
+- 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-obaid-ullah-29b6b0323/)**
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+### **Languages**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&locale=en" alt="maybethemuhammadibrahim" /></p>
+### **Web Development**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&" alt="maybethemuhammadibrahim" /></p>
+### **Tools & Technologies**
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obaid03&show_icons=true&count_private=true&theme=radical&card_width=497)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Obaid03&theme=radical)
+
+## 🚀 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obaid03&layout=compact&theme=radical&card_width=497)
+
+### 👥 GitHub Profile Stats  
+![GitHub Followers](https://img.shields.io/github/followers/Obaid03?label=Followers&style=flat&color=red)  
+![GitHub Contributions](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?color=blue&label=Total%20Contributions&query=totalContributions&url=https://api.github.com/users/Obaid03)
+![Profile Views](https://komarev.com/ghpvc/?username=Obaid03&label=Profile%20Views&color=ff0050&style=flat)
+
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Obaid03&theme=radical)
+
+
+## 🚀 Featured Projects
+Here are some of my projects:
+
+- 🎮 **[Rocket Shooting Game](https://github.com/Obaid03/PF_RocketGame)** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+
+## 📊 GitHub Activity Graph
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Obaid03&theme=github-dark" width="497px"/>
+</div>
+
+
+
+## 🤝 Let's Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-obaid-ullah-29b6b0323/)  
+📧 muhammadobaid103@gmail.com  
