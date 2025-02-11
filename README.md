@@ -1,10 +1,7 @@
 # Hi, I'm Muhammad Ibrahim 👋
 
 ## 👨‍🎓 About Me  
-A student currently pursuing CS from FAST NUCES 
-
-<!--![Profile Views](https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&color=ff0050&style=flat)-->  
-<!--![Profile Views](https://shields.io/badge/dynamic/json?color=ff0050&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/maybethemuhammadibrahim/visits)-->
+A student currently pursuing CS from FAST NUCES  
 
 - 🎓 **Bachelor of Science (BS) in Computer Science**  
 - 📫 **How to reach me:** mibrahimfiftysix@gmail.com  
@@ -33,12 +30,11 @@ A student currently pursuing CS from FAST NUCES
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&" alt="maybethemuhammadibrahim" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=highcontrast)
 
 ## 🚀 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&layout=compact&theme=radical&card_width=497)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&layout=compact&theme=highcontrast&card_width=497)
 
 ### 👥 GitHub Profile Stats  
 ![GitHub Followers](https://img.shields.io/github/followers/maybethemuhammadibrahim?label=Followers&style=flat&color=red)  
@@ -57,7 +53,7 @@ Here are some of my projects:
 ## 📊 GitHub Activity Graph
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&theme=github-dark" width="497px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&theme=highcontrast" width="497px"/>
 </div>
 
 ## 🤝 Let's Connect  
