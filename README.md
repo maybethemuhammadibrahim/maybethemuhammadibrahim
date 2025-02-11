@@ -26,15 +26,15 @@ A student currently pursuing CS from FAST NUCES
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=highcontrast&card_width=497)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&card_width=497)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maybethemuhammadibrahim)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maybethemuhammadibrahim&theme=nord)](https://git.io/streak-stats)
 
 ## 🚀 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&layout=compact&theme=highcontrast&card_width=497)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&layout=compact&theme=nord&card_width=497)
 
 ### 👥 GitHub Profile Stats  
 ![GitHub Followers](https://img.shields.io/github/followers/maybethemuhammadibrahim?label=Followers&style=flat&color=red)  
@@ -43,7 +43,7 @@ A student currently pursuing CS from FAST NUCES
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=maybethemuhammadibrahim&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=maybethemuhammadibrahim&theme=nord)
 
 ## 🚀 Featured Projects
 Here are some of my projects:
@@ -53,7 +53,7 @@ Here are some of my projects:
 ## 📊 GitHub Activity Graph
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&theme=highcontrast" width="497px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&theme=nord" width="497px"/>
 </div>
 
 ## 🤝 Let's Connect  
