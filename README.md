@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
  </a>
   <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-FFA116?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
  </a>
 </p>
 <br />
 
-<!-- About Section -->
-# About Me
+<!-- About Section 
+# About Me-->
 <!--
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
