@@ -1,61 +1,91 @@
-# Hi, I'm Muhammad Ibrahim 👋
+<h2 align="center">
+  Welcome to Muhammad Ibrahim's GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-## 👨‍🎓 About Me  
-A student currently pursuing CS from FAST NUCES  
+<a href="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim">
+  <img align="right" src="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&label=Visitors&color=88C0D0&style=flat" alt="Profile visitor" />
+</a>
 
-- 🎓 **Bachelor of Science (BS) in Computer Science**  
-- 📫 **How to reach me:** mibrahimfiftysix@gmail.com  
-- 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/)**
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There! I am <b>Muhammad Ibrahim</b></samp>
+</h3>
 
-## 🛠️ Tech Stack & Tools
+<p align="center"> 
+  <samp>
+    <br>
+    「 Aspiring Developer | Tech Enthusiast | Always Learning 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-### **Languages**
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<p align="center">
+ <a href="#" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+ </a>
+ <a href="#" target="blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+ </a>
+ <a href="#" target="blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+ </a>
+</p>
+<br />
 
-### **Web Development**
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+<!-- About Section -->
+# About Me
 
-### **Tools & Technologies**
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Passionate about programming and problem-solving <br/><br/>
+ ❤️ &emsp; Love to explore new technologies and improve my skills<br/><br/>
+ 📧 &emsp; Reach me anytime: [Email Placeholder] <br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/maybethemuhammadibrahim/maybethemuhammadibrahim/issues)
+</p>
 
-## 📈 GitHub Stats
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&card_width=497)
+## Technologies & Tools
 
-## 🔥 GitHub Streak
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maybethemuhammadibrahim&theme=nord)](https://git.io/streak-stats)
+<br/>
 
-## 🚀 Top Languages
+## Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&layout=compact&theme=nord&card_width=497)
+### 🚀 C Projects
+- **Rocket-Shooter Game** → [GitHub](https://github.com/maybethemuhammadibrahim/Rocket-Game)
 
-### 👥 GitHub Profile Stats  
-![GitHub Followers](https://img.shields.io/github/followers/maybethemuhammadibrahim?label=Followers&style=flat&color=red)  
-![GitHub Contributions](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?color=blue&label=Total%20Contributions&query=totalContributions&url=https://api.github.com/users/maybethemuhammadibrahim)
-![Profile Views](https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&label=Profile%20Views&color=ff0050&style=flat)
+### 🌐 HTML/CSS Projects
+- **Grocery Store Website** → [GitHub](https://github.com/maybethemuhammadibrahim/ICT-Project)
 
-## 🏆 GitHub Achievements
+<br/>
+<hr/>
+<br/>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=maybethemuhammadibrahim&theme=nord)
+<p align="center">
+  <a href="https://github.com/maybethemuhammadibrahim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=nord&border=88C0D0&background=2E3440" alt="Muhammad Ibrahim's GitHub streak"/>
+  </a>
+</p>
 
-## 🚀 Featured Projects
-Here are some of my projects:
+<p align="center">
+  <a href="https://github.com/maybethemuhammadibrahim">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maybethemuhammadibrahim&theme=nord" alt="Muhammad Ibrahim's GitHub Contribution"/>
+  </a>
+</p>
 
-- 🎮 **[Rocket Shooting Game](https://github.com/maybethemuhammadibrahim/PF_RocketGame)** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+<a> 
+    <a href="https://github.com/maybethemuhammadibrahim"><img alt="Muhammad Ibrahim's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/maybethemuhammadibrahim"><img alt="Muhammad Ibrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&langs_count=8&layout=compact&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-## 📊 GitHub Activity Graph
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&theme=nord" width="497px"/>
-</div>
-
-## 🤝 Let's Connect  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-obaid-ullah-29b6b0323/)  
-📧 mibrahimfiftysix@gmail.com
+![Muhammad Ibrahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&custom_title=Muhammad%20Ibrahim's%20GitHub%20Activity%20Graph&bg_color=2E3440&color=88C0D0&line=88C0D0&point=88C0D0&area_color=4C566A&title_color=D8DEE9&area=true)
