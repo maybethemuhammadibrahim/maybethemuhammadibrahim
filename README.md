@@ -1,7 +1,4 @@
-<h2 align="center">
-  Welcome to Muhammad Ibrahim's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+
 
 <a href="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim">
   <img align="right" src="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&label=Visitors&color=88C0D0&style=flat" alt="Profile visitor" />
