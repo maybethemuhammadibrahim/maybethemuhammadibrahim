@@ -11,11 +11,9 @@
 
 <h3 align="center"> 
   <samp>
-    <br>
-    <p>
-    「 Aspiring Developer | Tech Enthusiast | Always Learning 」
-    </p>
-      <br>
+    <h4>
+     Aspiring Developer | Tech Enthusiast | Always Learning 
+    </h4>
     <br>
   </samp>
 </h3>
