@@ -1,4 +1,7 @@
-
+<h2 align="center">
+  Welcome to Muhammad Ibrahim's GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <a href="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim">
   <img align="right" src="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&label=Visitors&color=88C0D0&style=flat" alt="Profile visitor" />
@@ -6,15 +9,12 @@
 
 <!-- Intro  -->
 <h1 align="center">
-        <samp>&gt; Hey There! I am <b>Muhammad Ibrahim</b></samp>
+    <samp>&gt; Hey There! I am <b>Muhammad Ibrahim</b></samp>
 </h1>
 
 <h3 align="center"> 
   <samp>
-    <h4>
-     Aspiring Developer | Tech Enthusiast | Always Learning 
-    </h4>
-    <br>
+    Aspiring Developer | Tech Enthusiast | Always Learning 
   </samp>
 </h3>
 
@@ -28,49 +28,47 @@
  <a href="#" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
  </a>
-  <a href="#" target="blank">
+ <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
  </a>
 </p>
-<br />
 
-<!-- About Section 
-# About Me-->
-<!--
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Passionate about programming and problem-solving <br/><br/>
- ❤️ &emsp; Love to explore new technologies and improve my skills<br/><br/>
- 📧 &emsp; Reach me anytime: [Email Placeholder] <br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/maybethemuhammadibrahim/maybethemuhammadibrahim/issues)
-</p>
-
-<br/>
--->
-<p align="center">
+<h2 align="center">
  Technologies & Tools
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+<h2 align="center">Projects</h2>
 
-<br/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/maybethemuhammadibrahim/Rocket-Game">
+          <img src="https://via.placeholder.com/200" alt="Rocket Shooter Game" width="200"/>
+        </a>
+        <br>
+        <b>🚀 Rocket-Shooter Game</b>
+      </td>
+      <td>
+        <a href="https://github.com/maybethemuhammadibrahim/ICT-Project">
+          <img src="https://via.placeholder.com/200" alt="Grocery Store Website" width="200"/>
+        </a>
+        <br>
+        <b>🌐 Grocery Store Website</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## Projects
-
-### 🚀 C Projects
-- **Rocket-Shooter Game** → [GitHub](https://github.com/maybethemuhammadibrahim/Rocket-Game)
-
-### 🌐 HTML/CSS Projects
-- **Grocery Store Website** → [GitHub](https://github.com/maybethemuhammadibrahim/ICT-Project)
-
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/maybethemuhammadibrahim">
@@ -80,14 +78,14 @@
 
 <p align="center">
   <a href="https://github.com/maybethemuhammadibrahim">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maybethemuhammadibrahim&theme=nord" alt="Muhammad Ibrahim's GitHub Contribution"/>
+    <img alt="Muhammad Ibrahim's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9"/>
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/maybethemuhammadibrahim"><img alt="Muhammad Ibrahim's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/maybethemuhammadibrahim"><img alt="Muhammad Ibrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&langs_count=8&layout=compact&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/maybethemuhammadibrahim">
+    <img alt="Muhammad Ibrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&langs_count=8&layout=compact&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" height="192px" width="49.5%"/>
+  </a>
+</p>
 
 ![Muhammad Ibrahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&custom_title=Muhammad%20Ibrahim's%20GitHub%20Activity%20Graph&bg_color=2E3440&color=88C0D0&line=88C0D0&point=88C0D0&area_color=4C566A&title_color=D8DEE9&area=true)
