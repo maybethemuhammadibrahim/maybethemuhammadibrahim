@@ -5,18 +5,20 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There! I am <b>Muhammad Ibrahim</b></samp>
-</h3>
+</h1>
 
-<p align="center"> 
+<h3 align="center"> 
   <samp>
     <br>
+    <p>
     「 Aspiring Developer | Tech Enthusiast | Always Learning 」
-    <br>
+    </p>
+      <br>
     <br>
   </samp>
-</p>
+</h3>
 
 <p align="center">
  <a href="#" target="blank">
