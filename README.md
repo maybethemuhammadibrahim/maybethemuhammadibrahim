@@ -28,12 +28,15 @@
  <a href="#" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
  </a>
+  <a href="#" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-FFA116?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+ </a>
 </p>
 <br />
 
 <!-- About Section -->
 # About Me
-
+<!--
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -44,7 +47,7 @@
 </p>
 
 <br/>
-
+-->
 ## Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
