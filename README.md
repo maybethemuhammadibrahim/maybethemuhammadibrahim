@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/maybethemuhammadibrahim">
-    <img alt="Muhammad Ibrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&langs_count=8&layout=compact&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" height="192px" width="49.5%"/>
+    <img alt="Muhammad Ibrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&langs_count=8&layout=compact&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" />
   </a>
 </p>
 
