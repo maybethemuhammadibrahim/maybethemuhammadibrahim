@@ -9,7 +9,7 @@
     <samp>&gt; Hey There! I am <b>Muhammad Ibrahim</b></samp>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-c,cpp,html,css,git,github,mysql
+
 <h3 align="center"> 
   <samp>
     Aspiring Developer | Tech Enthusiast | Always Learning 
@@ -86,4 +86,3 @@ c,cpp,html,css,git,github,mysql
   </a>
 </p>
 
-![Muhammad Ibrahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&custom_title=Muhammad%20Ibrahim's%20GitHub%20Activity%20Graph&bg_color=2E3440&color=88C0D0&line=88C0D0&point=88C0D0&area_color=4C566A&title_color=D8DEE9&area=true)
