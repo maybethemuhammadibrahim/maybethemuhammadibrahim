@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/maybethemuhammadibrahim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=nord&border=88C0D0&background=2E3440" alt="Muhammad Ibrahim's GitHub streak" height="200px" width="50%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=nord&border=88C0D0&background=2E3440" alt="Muhammad Ibrahim's GitHub streak" height="200px" card_width="500px"/>
   </a>
 </p>
 
