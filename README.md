@@ -70,13 +70,13 @@
 
 <p align="center">
   <a href="https://github.com/maybethemuhammadibrahim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=nord&border=88C0D0&background=2E3440" alt="Muhammad Ibrahim's GitHub streak" height="200px" card_width="500px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=nord&border=88C0D0&background=2E3440" alt="Muhammad Ibrahim's GitHub streak" card_height="200px" card_width="500px"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/maybethemuhammadibrahim">
-    <img alt="Muhammad Ibrahim's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9"/>
+    <img alt="Muhammad Ibrahim's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" card_height="200px" card_width="500px"/>
   </a>
 </p>
 
