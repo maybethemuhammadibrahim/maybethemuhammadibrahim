@@ -1,88 +1,38 @@
+<!-- Header Animated Image BEGIN -->
+<p align="center"> 
 
+![Landing Image](https://github.com/maybethemuhammadibrahim/Website-Portfolio/blob/main/src/assets/img/logo/welcome.png)
+</p>
+<!-- Header Animated Image END -->
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://komarev.com -->
+<!-- https://custom-icon-badges.demolab.com-->
 
-<a href="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim">
-  <img align="right" src="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&label=Visitors&color=88C0D0&style=flat" alt="Profile visitor" />
-</a>
-
-<!-- Intro  -->
-<h1 align="center">
-    <samp>&gt; Hey There! I am <b>Muhammad Ibrahim</b></samp>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<h3 align="center"> 
-  <samp>
-    Aspiring Developer | Tech Enthusiast | Always Learning 
-  </samp>
-</h3>
 
 <p align="center">
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
- </a>
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
- </a>
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
- </a>
- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
- </a>
-</p>
+  <a href="https://github.com/maybethemuhammadibrahim?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maybethemuhammadibrahim?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
+    <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/maybethemuhammadibrahim?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
+    <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=maybethemuhammadibrahim&style=for-the-badge&color=00000F"/>
+    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
+    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-maybethemuhammadibrahim.com-black?logo=package&logoColor=white&style=for-the-badge"/>
+<p/>
 
-<h2 align="center">
- Technologies & Tools
-</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+<!-- About Me Text BEGIN -->
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
+**` Newbie Developer (Developer/Designer/Creator)`**
 
-<h2 align="center">Projects</h2>
+I’m Muhammad Ibrahim, working on my portfolio with React and Vite ⚡, mainly focusing on website design. I’m always trying to improve, taking it step by step and getting better each time. My goal is to build websites that look good and actually work well for users. I’m really into learning and growing in web development, and I’m excited to see where this journey takes me as I build more projects and challenge myself 🚀💻
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/maybethemuhammadibrahim/Rocket-Game">
-          <img src="https://via.placeholder.com/200" alt="Rocket Shooter Game" width="200"/>
-        </a>
-        <br>
-        <b>🚀 Rocket-Shooter Game</b>
-      </td>
-      <td>
-        <a href="https://github.com/maybethemuhammadibrahim/ICT-Project">
-          <img src="https://via.placeholder.com/200" alt="Grocery Store Website" width="200"/>
-        </a>
-        <br>
-        <b>🌐 Grocery Store Website</b>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- About Me Text BEGIN -->
 
-<hr/>
+<details>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
 
-<p align="center">
-  <a href="https://github.com/maybethemuhammadibrahim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maybethemuhammadibrahim&theme=nord&border=88C0D0&background=2E3440" alt="Muhammad Ibrahim's GitHub streak" card_height="200px" card_width="500px"/>
-  </a>
-</p>
+| Website Portfolio ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Portfolio](https://github.com/maybethemuhammadibrahim/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)](https://github.com/maybethemuhammadibrahim/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
 
-<p align="center">
-  <a href="https://github.com/maybethemuhammadibrahim">
-    <img alt="Muhammad Ibrahim's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&show_icons=true&count_private=true&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" card_height="200px" card_width="500px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/maybethemuhammadibrahim">
-    <img alt="Muhammad Ibrahim's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&langs_count=8&layout=compact&theme=nord&border_color=88C0D0&bg_color=2E3440&title_color=8FBCBB&icon_color=D8DEE9" />
-  </a>
-</p>
-
+</details>
