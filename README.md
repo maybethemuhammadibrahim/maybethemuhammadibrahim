@@ -37,7 +37,7 @@ Iâ€™m Muhammad Ibrahim, an aspiring developer passionate about problem-solvingâš
 
 | 8-Bit ALU ( In Progress )                            | Airline Management System ( In Progress )                                    | Grocery Store Website Frontend                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Repository](https://github.com/maybethemuhammadibrahim/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)]([https://github.com/maybethemuhammadibrahim/NextJS-Portify](https://github.com/maybethemuhammadibrahim/DLD_Project)) | [![Showcase](https://raw.githubusercontent.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
+| [![Repository]([https://github.com/maybethemuhammadibrahim/NextJS-Portify](https://github.com/maybethemuhammadibrahim/DLD_Project))]([https://github.com/maybethemuhammadibrahim/NextJS-Portify](https://github.com/maybethemuhammadibrahim/DLD_Project)) | [![Repository](https://github.com/maybethemuhammadibrahim/Airline_Management_System)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
 
 </details>
 
