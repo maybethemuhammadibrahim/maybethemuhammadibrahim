@@ -27,15 +27,15 @@
 <!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
+I’m Muhammad Ibrahim, an aspiring developer passionate about problem-solving⚡ and continuous learning💻. I work with C, C++, HTML, CSS, SQL, and JavaScript, always looking to refine my skills and explore new technologies. Whether it's coding, researching tech, or improving my communication, I’m constantly pushing myself to grow and take on new challenges.
 
-I’m Muhammad Ibrahim, working on my portfolio with React and Vite ⚡, mainly focusing on website design. I’m always trying to improve, taking it step by step and getting better each time. My goal is to build websites that look good and actually work well for users. I’m really into learning and growing in web development, and I’m excited to see where this journey takes me as I build more projects and challenge myself 🚀💻
 
 <!-- About Me Text BEGIN -->
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
 
-| Website Portfolio ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
+| 8-Bit ALU ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Portfolio](https://github.com/maybethemuhammadibrahim/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)](https://github.com/maybethemuhammadibrahim/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
 
