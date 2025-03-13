@@ -35,9 +35,9 @@ Iâ€™m Muhammad Ibrahim, an aspiring developer passionate about problem-solvingâš
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
 
-| 8-Bit ALU ( In Progress )                            | Retro Gaming Emulator Theme                                  | Ebay Gaming Scraper & Analyse                                |
+| 8-Bit ALU ( In Progress )                            | Airline Management System ( In Progress )                                    | Grocery Store Website Frontend                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Portfolio](https://github.com/maybethemuhammadibrahim/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)](https://github.com/maybethemuhammadibrahim/NextJS-Portify) | [![Showcase](https://raw.githubusercontent.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
+| [![Repository](https://github.com/maybethemuhammadibrahim/Website-Portfolio/blob/main/src/assets/img/Github_showcasee/02.08_Showcase.png)]([https://github.com/maybethemuhammadibrahim/NextJS-Portify](https://github.com/maybethemuhammadibrahim/DLD_Project)) | [![Showcase](https://raw.githubusercontent.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme/main/Github%20Gallery%20Showcase/showcase2.png)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
 
 </details>
 
@@ -48,14 +48,14 @@ Iâ€™m Muhammad Ibrahim, an aspiring developer passionate about problem-solvingâš
 <details open>  
   <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gylansalih&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=maybethemuhammadibrahim&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=gylansalih&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
+    <img align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=maybethemuhammadibrahim&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=gylansalih&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=maybethemuhammadibrahim&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gylansalih&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maybethemuhammadibrahim&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
 <img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=gylansalih&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
