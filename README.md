@@ -12,6 +12,7 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://komarev.com -->
 <!-- https://custom-icon-badges.demolab.com-->
+<!-- https://github.com/athul/waka-readme -->
 
 
 <p align="center">
