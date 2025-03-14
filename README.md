@@ -38,21 +38,21 @@ I’m Muhammad Ibrahim, an aspiring developer passionate about problem-solving�
 <!-- About Me Text BEGIN -->
 ### 📬 Connect with Me:
   <p align="left">
-    <a href="https://www.linkedin.com/in/muhammad-obaid-ullah-29b6b0323/" target="_blank">
+    <a href="https://www.linkedin.com/in/maybethemuhammadibrahim/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
     </a>
-    <a href="mailto:muhammadobaid103@gmail.com">
+    <a href="mailto:mibrahimfiftysix@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
     </a>
     <a href="https://discord.com/users/1275831607550410886" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
     </a>
-    <a href="https://github.com/Obaid03" target="_blank">
+    <a href="https://github.com/maybethemuhammadibrahim" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
     </a>
   </p>
 
-<details>
+<details open>
   <summary><h2>🛠️ Tech Stack</h2></summary>
 
   <h3>Programming Languages & Web Development</h3>  
