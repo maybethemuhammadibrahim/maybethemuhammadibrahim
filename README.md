@@ -30,7 +30,25 @@
 I’m Muhammad Ibrahim, an aspiring developer passionate about problem-solving⚡ and continuous learning💻. I work with C, C++, HTML, CSS, SQL, and JavaScript, always looking to refine my skills and explore new technologies. Whether it's coding, researching tech, or improving my communication, I’m constantly pushing myself to grow and take on new challenges.
 
 
+
 <!-- About Me Text BEGIN -->
+### 📬 Connect with Me:
+  <p align="left">
+    <a href="https://www.linkedin.com/in/muhammad-obaid-ullah-29b6b0323/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
+    </a>
+    <a href="mailto:muhammadobaid103@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail" />
+    </a>
+    <a href="https://discord.com/users/1275831607550410886" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
+    </a>
+    <a href="https://github.com/Obaid03" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+    </a>
+  </p>
+
+
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
