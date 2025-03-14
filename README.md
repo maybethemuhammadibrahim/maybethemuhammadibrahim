@@ -76,7 +76,7 @@ Iâ€™m Muhammad Ibrahim, an aspiring developer passionate about problem-solvingâš
     <img src="1.png" alt="Rocket Shooting Game" width="400">
 </a>
 
-<a href="https://github.com/Obaid03/PF_RocketGame">
+<a href="https://grocerystorewebsite-olive.vercel.app/">
     <img src="p2.png" alt="Grocery Store Website" width="400">
 </a>
 
@@ -84,14 +84,7 @@ Iâ€™m Muhammad Ibrahim, an aspiring developer passionate about problem-solvingâš
 
 </details>
 
-<details>
-  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
 
-| 8-Bit ALU ( In Progress )                            | Airline Management System ( In Progress )                                    | Grocery Store Website Frontend                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Repository]([https://github.com/maybethemuhammadibrahim/NextJS-Portify](https://github.com/maybethemuhammadibrahim/DLD_Project))]([https://github.com/maybethemuhammadibrahim/NextJS-Portify](https://github.com/maybethemuhammadibrahim/DLD_Project)) | [![Repository](https://github.com/maybethemuhammadibrahim/Airline_Management_System)](https://github.com/maybethemuhammadibrahim/RetroVerse-Batocera-Theme) | [![Showcase](https://github.com/maybethemuhammadibrahim/GamingScrapper/blob/main/Showcase_Github.png)](https://github.com/maybethemuhammadibrahim/GamePriceTracker) |
-
-</details>
 
 
 
