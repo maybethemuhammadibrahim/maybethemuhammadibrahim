@@ -25,21 +25,7 @@
 
 
 
-<details>
-  <summary><h2>🛠️ Tech Stack</h2></summary>
 
-  <h3>Programming Languages & Web Development</h3>  
-  <p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" height="50">
-  </p>
-
-  <h3>Tools & Technologies</h3>  
-  <p>
-    <img src="https://skillicons.dev/icons?i=github,vscode,linux,mysql,windows" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="50">
-  </p>
-
-</details>
 
 
 <!-- About Me Text BEGIN -->
@@ -66,7 +52,21 @@ I’m Muhammad Ibrahim, an aspiring developer passionate about problem-solving�
     </a>
   </p>
 
+<details>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
 
+  <h3>Programming Languages & Web Development</h3>  
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" height="50">
+  </p>
+
+  <h3>Tools & Technologies</h3>  
+  <p>
+    <img src="https://skillicons.dev/icons?i=github,vscode,linux,mysql,windows" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="50">
+  </p>
+
+</details>
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
