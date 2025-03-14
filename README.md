@@ -24,6 +24,24 @@
 <p/>
 
 
+
+<details>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
+
+  <h3>Programming Languages & Web Development</h3>  
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" height="50">
+  </p>
+
+  <h3>Tools & Technologies</h3>  
+  <p>
+    <img src="https://skillicons.dev/icons?i=github,vscode,linux,mysql,windows" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="50">
+  </p>
+
+</details>
+
+
 <!-- About Me Text BEGIN -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" /> About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
