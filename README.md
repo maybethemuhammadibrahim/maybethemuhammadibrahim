@@ -69,14 +69,20 @@ Iâ€™m Muhammad Ibrahim, an aspiring developer passionate about problem-solvingâš
 </details>
 
 <details>
+
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  Featured Repositories</h2></summary>
 
-[![Rocket Shooting Game](1.png)](https://github.com/Obaid03/PF_RocketGame)
+<a href="https://github.com/Obaid03/PF_RocketGame">
+    <img src="1.png" alt="Rocket Shooting Game" width="400">
+</a>
 
-[![Grocery Store Website](p2.png)](https://github.com/Obaid03/PF_RocketGame)
+<a href="https://github.com/Obaid03/PF_RocketGame">
+    <img src="p2.png" alt="Grocery Store Website" width="400">
+</a>
+
+
 
 </details>
-
 
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" alt="Smiling Cat with Heart-Eyes" width="25" height="25" />  My Repositories</h2></summary>
